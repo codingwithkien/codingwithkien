@@ -4,6 +4,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithkien&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithkien" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithkien" alt="codingwithkien" /></a> </p> -->
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodexploreRepo&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexploreRepo&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
+</tr>
+<table>
 - 🔭 I’m currently working on **Object Detection**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
