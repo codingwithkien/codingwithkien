@@ -4,22 +4,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithkien&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithkien" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithkien" alt="codingwithkien" /></a> </p> -->
-<table>
-<tr>
-  <td width="48%">
-- 🔭 I’m currently working on **Object Detection**
-
-- 🌱 I’m currently learning **Data Science & Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://duongtrungkien.netlify.app/](https://duongtrungkien.netlify.app/)
-
-- 💬 Ask me about **Python, C++,...**
-
-- 📫 How to reach me **duongtrungkien.03052003@gmail.com**
-  </td>
-  <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
-</tr>
-<table>
 - 🔭 I’m currently working on **Object Detection**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
