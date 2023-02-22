@@ -9,7 +9,7 @@
   <td width="48%">
     <img src="https://github-readme-stats.vercel.app/api?username=codingwithkien&show_icons=true&locale=en" alt="codingwithkien" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithkien&" alt="codingwithkien" />
-  <td width="auto"><img alt="gif" align="right" src="coding.gif"/></td>
+  <td width="auto"><img alt="gif" align="right" src="cyb.gif"/></td>
 </tr>
 <table>
   
