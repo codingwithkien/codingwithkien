@@ -12,6 +12,7 @@
   <td width="auto"><img alt="gif" align="right" src="coding.gif"/></td>
 </tr>
 <table>
+  
 - 🔭 I’m currently working on **Object Detection**
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
