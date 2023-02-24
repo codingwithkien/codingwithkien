@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **duongtrungkien.03052003@gmail.com**
 
-- 😍 Visit my Youtube Channel: **[https://www.youtube.com/@codingwithkien/]**
+- 😍 Visit my Youtube Channel: **https://www.youtube.com/@codingwithkien/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
