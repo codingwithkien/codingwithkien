@@ -6,11 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithkien" alt="codingwithkien" /></a> </p> -->
 <table>
 <tr>
+    <td width="60%"><img alt="gif" align="right" src="cyb.gif"/></td>
   <td width="40%">
     <img src="https://github-readme-stats.vercel.app/api?username=codingwithkien&show_icons=true&locale=en" alt="codingwithkien" />
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithkien&" alt="codingwithkien" /> -->
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithkien&layout=compact&show_icons=true&hide_border=true" />
-  <td width="60%"><img alt="gif" align="right" src="cyb.gif"/></td>
+
 </tr>
 <table>
   
