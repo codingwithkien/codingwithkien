@@ -20,11 +20,11 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://duongtrungkien.netlify.app/](https://duongtrungkien.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://duongtrungkien.tech/](https://duongtrungkien.tech/)
 
 - 💬 Ask me about **Python, C++,...**
 
-- 📫 How to reach me **duongtrungkien.03052003@gmail.com**
+- 📫 How to reach me **duongtrungkien.dev@gmail.com**
 
 - 😍 Visit my Youtube Channel: **https://www.youtube.com/@codingwithkien/**
 
